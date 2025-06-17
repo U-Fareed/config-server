@@ -14,6 +14,6 @@ spring:
     show-sql: true
     
     jwt:
-  secret: my-super-secret-key-which-is-at-least-32-characters-long
+  secret: hfj583jd9laod0e9fj3nqufn8dueo920u
   expiration-ms: 3600000
 
